@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN STACK<br>👯 I’m looking to collaborate on WEB DEVELOPMENT<br>🌱 I’m currently learning FULL STACK DEVELOPMENT<br>💬 Ask me about WEB DEVELOPMENT, CYBERSECURITY, DSA<br>⚡ Fun fact I won 2nd prize in college hackathon
+🔭 I’m currently working on MERN STACK<br>👯 I’m looking to collaborate on WEB DEVELOPMENT<br>🌱 I’m currently learning FULL STACK DEVELOPMENT<br>💬 Ask me about WEB DEVELOPMENT, CYBERSECURITY, DSA<br>⚡I won 2nd prize in college hackathon
 
 
 ## 🌐 Socials:
